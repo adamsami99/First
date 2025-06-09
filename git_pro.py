@@ -1,3 +1,1 @@
-def hello():
-  return 'Hello World'
-print(2)
+print('hello world')
